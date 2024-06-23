@@ -1,0 +1,26 @@
+
+
+path: datasets  # dataset root dir
+train: images/train  
+val: images/test 
+test: images/pred
+
+# Classes
+names:
+  0: Aincrad
+  1: Dark_Repulsor
+  2: Elucidator
+  3: Liberator
+  4: Nervgear
+  5: Ragout_Rabbit
+  6: Starburst_Stream_pose
+  7: The_Gleameyes
+  8: Zanbato_Sword
+  9: kirito_eye_1
+  10: kirito_eye_2
+  11: kirito_eye_3
+  12: kirito_hair
+  13: kirito_mouth_1
+  14: kirito_mouth_2
+  15: kirito_mouth_3
+  16: torch
