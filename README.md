@@ -116,13 +116,13 @@
 
 # Result
 
-<img src="Image/labels.jpg" width="800"">
+<img src="Image/labels.jpg" width="800">
 
 ![results.png](Image/results.png)
 
-<img src="Image/confusion_matrix.png" width="800"">
+<img src="Image/confusion_matrix.png" width="800">
 
-<img src="Image/val_batch1_pred.jpg" width="800"">
+<img src="Image/val_batch1_pred.jpg" width="800">
 
 <img src="Image/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D-1.png" width="800">
 
