@@ -31,96 +31,98 @@
 - 人物特徵
     - kirito_eye_1
         
-        !4d3da01ff2914ce4e338053ed9ff5a17.PNG{:height="200px" width="200px"}
+        <img src="Image/4d3da01ff2914ce4e338053ed9ff5a17.png" width="200">
         
     - kirito_mouth_1
         
-        !21ec095bc5ec42d8be6f4be25e8206c1.PNG{:height="200px" width="200px"}
+        <img src="Image/21ec095bc5ec42d8be6f4be25e8206c1.png" width="200">
         
     - kirito_eye_2
         
-        !f32c8b3bb33aaf63854ae4bc9636c171.PNG{:height="200px" width="200px"}
+        <img src="Image/f32c8b3bb33aaf63854ae4bc9636c171.png" width="200">
         
     - kirito_mouth_2
         
-        !12a001e88363344027241eefd506dea0.PNG{:height="200px" width="200px"}
+        <img src="Image/12a001e88363344027241eefd506dea0.png" width="200">
         
     - kirito_eye_3
         
-        !fc7181d51e9a29763ed73bbce0d1751a.PNG{:height="200px" width="200px"}
+        <img src="Image/fc7181d51e9a29763ed73bbce0d1751a.png" width="200">
         
     - kirito_mouth_3
         
-        !7c28003ee3607599c314d9a01a71a40b.PNG{:height="200px" width="200px"}
+        <img src="Image/7c28003ee3607599c314d9a01a71a40b.png" width="200">
         
     - kirito_hair
         
-        !FIZVaM8.png{:height="200px" width="200px"}
+        <img src="Image/FIZVaM8.png" width="200">
         
 
 - 生物
     - The_Gleameyes
         - 閃耀魔眼
             
-            !953992af0c836791cc4ec36349d9b639.PNG{:height="200px" width="200px"}
+            <img src="Image/953992af0c836791cc4ec36349d9b639.png" width="200">
             
     - Ragout_Rabbit
         - 雜燴兔
             
-            !雜燴兔-前.png{:height="200px" width="200px"}
+            <img src="Image/%25E9%259B%259C%25E7%2587%25B4%25E5%2585%2594-%25E5%2589%258D.png" width="200">
             
 
 - 道具類
     - Elucidator
         - 闡釋者
             
-            !1-3.png{:height="200px" width="200px"}
+            <img src="Image/1-3.png" width="200">
             
     - Dark_Repulsor
         - 逐暗者
             
-            !1-2.png{:height="200px" width="200px"}
+            <img src="Image/1-2.png" width="200">
             
     - Liberator
         - 解放者
             
-            !5-4.png{:height="200px" width="200px"}
+            <img src="Image/5-4.png" width="200">
             
     - Zanbato_Sword
         - 斬馬刀
             
-            !閃耀魔眼劍.png{:height="200px" width="200px"}
+            <img src="Image/%25E9%2596%2583%25E8%2580%2580%25E9%25AD%2594%25E7%259C%25BC%25E5%258A%258D.png" width="200">
             
     - Nervgear
         
-        !NVG-前.png{:height="200px" width="200px"}
+        <img src="Image/NVG-%25E5%2589%258D.png" width="200">
         
 
 - 其他
     - torch
         - 火炬
             
-            !74層火炬.png{:height="200px" width="200px"}
+            <img src="Image/74%25E5%25B1%25A4%25E7%2581%25AB%25E7%2582%25AC.png" width="200">
             
     - Aincrad
         - 艾恩葛朗特
             
-            !kHIh2te.png{:height="200px" width="200px"}
+            <img src="Image/kHIh2te.png" width="200" >
             
     - Starburst_Stream_pose
         - 星爆氣流斬pose
             
-            !KEaF4bm.png{:height="200px" width="200px"}
+            <img src="Image/KEaF4bm.png" width="200" >
 
+            
 
 # Result
 
-![labels.jpg](Image/labels.jpg)
+<img src="Image/labels.jpg" width="800"">
 
 ![results.png](Image/results.png)
 
-![confusion_matrix.png](Image/confusion_matrix.png)
+<img src="Image/confusion_matrix.png" width="800"">
 
-![val_batch1_pred.jpg](Image/val_batch1_pred.jpg)
+<img src="Image/val_batch1_pred.jpg" width="800"">
 
-![未命名-1.png](Image/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D-1.png)
+<img src="Image/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D-1.png" width="800">
+
